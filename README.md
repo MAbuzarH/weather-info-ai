@@ -1,6 +1,18 @@
+This is a beautiful weather application
+in This project we use
+React
+Next js 13
+gpt 3.5
+stepzen
+termor 2.0
+Tailwind css
+typescript
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+
 
 First, run the development server:
 
